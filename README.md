@@ -10,12 +10,12 @@ If you want to add your language to the resource pack, this is how you can do it
  # These are the lines that should be edited: 
  
   1. container.[text] everything there except:
-      container.enchant.lapis.one
-      container.enchant.lapis.many
-      container.enchant.level.one
-      container.enchant.level.many
-      container.enchant.level.requirement
-      container.enchant.clue=
+      container.enchant.lapis.one, 
+      container.enchant.lapis.many, 
+      container.enchant.level.one, 
+      container.enchant.level.many, 
+      container.enchant.level.requirement, 
+      container.enchant.clue
   2. itemGroup.[text] everything there
   
   3. key.advancements
